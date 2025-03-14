@@ -1,6 +1,8 @@
-/* Autora: */
+/* Autora: Alejandra Avilés - 24722
+ * Fecha de última modificación: 13/03/2025
+ * Descripción: Clase que sirve para aplicar el patrón Factory al seleccionar la estructura de Map deseada.
+ */
 
-import java.io.*;
 import java.util.*;
 @SuppressWarnings("rawtypes")
 
